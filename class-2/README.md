@@ -7,7 +7,7 @@ __Homework__
 For your class journal:
 
 1. What is the difference between raster and vector data?
-*Vector data involves x and y coordinates and includes lines and polygons. Raster data is continuous and assigns each pixel in the map a value. 
+* Vector data involves x and y coordinates and includes lines and polygons. Raster data is continuous and assigns each pixel in the map a value. 
 
 2. Why do "slippy maps" exist?
 *Slippy maps exist because they paved the path for new web maps. After the tile was introduced, a computer only had to load the tiles of the map that the view was currently on. Zooming the map in or out multiplied the times or divided them. Smart maps would preload tiles along the borders of the map to help the smoothness of the interface.
